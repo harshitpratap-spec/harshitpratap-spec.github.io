@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+#box1 {
+    background-color: black;
+    height: 60px;
+    border: 4px blue solid;
+}
+
+#logo {
+    color: orange;
+    height: 25px;
+}
+
+a {
+    margin-right: 200px;
+}
+
+#box2 {
+    display: inline-block;
+    background-color: red;
+}
+
+#box3 {
+    display: inline-block;
+    background-color: yellow ;
+}
+
+#box4 {
+    display: inline-block;
+    background-color: green;
+}
+
+#footer1 {
+    background-color: black;
+    height: 60px;
+    border: 2px blue solid;
+}
